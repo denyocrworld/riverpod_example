@@ -1,0 +1,7 @@
+{
+    "modules": [
+        "login",
+        "dashboard",
+        "theme_editor"
+    ]
+}
